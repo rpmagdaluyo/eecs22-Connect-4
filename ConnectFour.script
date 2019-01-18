@@ -1,0 +1,10 @@
+Script started on Thu 11 Oct 2018 09:59:39 PM PDT
+[rmagdalu@zuma hw1]$ !gcc
+gcc ConnectFour.c -ansi -std=c99 -Wall -o ConnectFour
+[rmagdalu@zuma hw1]$ ./ConnectFour
+Hello! Please select a game mode! (R) for regular and (A) for Anvil.
+^C
+[rmagdalu@zuma hw1]$ exit
+exit
+
+Script done on Thu 11 Oct 2018 10:00:26 PM PDT

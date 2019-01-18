@@ -1,0 +1,15 @@
+I think I've hit most of the requirements of the assignment as close to their 
+specifications as I could. 
+
+The menu works fine and both versions (anvil and regular) are playing out as 
+they should. 
+
+Some of the things my program doesn't account for are
+- Players attempting to put a piece on a full column
+- Checking for when the board is full and declaring a tie (in anvil version)
+
+Implementing working win conditions was one of the most difficult parts, as well as ensuring
+that dropping the anvil works as specified.
+
+filling more space...
+Learning how to use vim, and a non graphical environment to code was definitely a challenge. However, knowing how to use some of gdb's features and getting familiar with the environment has been satisfying.
